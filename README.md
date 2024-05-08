@@ -1,3 +1,3 @@
 # Git Clone Demo
 
-This is a demo.
+This is a demonstration of git clone.
